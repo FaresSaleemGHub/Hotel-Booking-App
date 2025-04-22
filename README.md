@@ -36,14 +36,33 @@ The app provides a platform for users to view and book chalets with a simple and
 - 🚚 **Intent** for navigation between activities
 
 ---
-## 🛠️ Installation
 
-1. Clone the repository:
+## 🛠️ Built With
+- **Java** – for backend logic
+- **XML** – for Android UI layouts
+- **Android Studio** – development environment
+- **Gradle** – build system
+
+---
+
+## 🚀 Getting Started
+To get a local copy of the project running on your machine:
+1. **Clone the repo**:
    ```bash
-   git clone https://github.com/FaresSaleemGHub/Falcon-Delivery-App.git
-2. Open with Android Studio.
-3. Connect to Firebase (or use your own config).
-4. Build & Run on an Android device or emulator.
+   git clone https://github.com/faresaleemHub/Resturant-Menu.git
+2. Open the project in Android Studio and click Open an existing project.
+3. Build and run the app either on an emulator or a connected Android device.
+
+---
+
+## 📂 .gitignore
+The following file types and directories are ignored in this repository:
+*.iml
+.gradle/
+build/
+local.properties
+*.log
+*.tmp
 
 ---
 
