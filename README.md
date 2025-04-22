@@ -66,8 +66,13 @@ local.properties
 
 ---
 
-## 🎥 Demo
-Watch the game in action: [Youtube](https://www.youtube.com/watch?v=DU8zmgFDFFw).
+## 📱 App Demo
+Here’s a quick preview of the app in action:
+### 🖼️ Image Preview
+![Restaurant Menu Screenshot](assets/demo.jpeg)
+
+### 🎥 Video Demo
+[▶️ Click to watch demo](https://www.youtube.com/watch?v=DU8zmgFDFFw)
 
 ---
 
