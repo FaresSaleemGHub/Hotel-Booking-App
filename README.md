@@ -1,5 +1,6 @@
 # 🏨 Hotel Booking App
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) <br>
+This project was developed to address the need for an efficient chalet booking system in the Gaza Strip. It helps users easily find chalets and book them with just a few taps. The app leverages Android development best practices, including Firebase, RecyclerView, SQLite, and modern UI components.
 
 ---
 
@@ -10,7 +11,6 @@ The app provides a platform for users to view and book chalets with a simple and
 ---
 
 ## ✨ Features
-
 - 🔐 **User Authentication**: Users can create an account using their email and log in to access all features.
 - 🏠 **Chalet Details**: View chalet details including images, name, price, and owner contact info.
 - 📝 **Booking**: Book chalets based on availability and cancel reservations if necessary.
@@ -23,7 +23,6 @@ The app provides a platform for users to view and book chalets with a simple and
 ---
 
 ## 🔧 Technologies Used
-
 - 💻 **Android Studio** (Java)
 - ☁️ **Firebase Realtime Database**
 - 🗄️ **SQLite Database**
@@ -55,17 +54,6 @@ To get a local copy of the project running on your machine:
 
 ---
 
-## 📂 .gitignore
-The following file types and directories are ignored in this repository:
-*.iml
-.gradle/
-build/
-local.properties
-*.log
-*.tmp
-
----
-
 ## 📱 App Demo
 Here’s a quick preview of the app in action:
 ### 🖼️ Image Preview
@@ -73,11 +61,6 @@ Here’s a quick preview of the app in action:
 
 ### 🎥 Video Demo
 [▶️ Click to watch demo](https://www.youtube.com/watch?v=DU8zmgFDFFw)
-
----
-
-## 📝 About the Project
-This project was developed to address the need for an efficient chalet booking system in the Gaza Strip. It helps users easily find chalets and book them with just a few taps. The app leverages Android development best practices, including Firebase, RecyclerView, SQLite, and modern UI components.
 
 ---
 
