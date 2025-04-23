@@ -82,7 +82,7 @@ This project was developed to address the need for an efficient chalet booking s
 ---
 
 ## 👤 Author
-Your Name – @FaresSaleemGHub
+Written with passion by – @FaresSaleemGHub
 
 ---
 
